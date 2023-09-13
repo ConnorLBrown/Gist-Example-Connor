@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "name": "dev-lab-mike",
+  "description": "486 First dev lab mike. Hello node Hello express",
+  "version": "1.0.0",
+  "main": "hello-node.js",
+  "scripts": {
+     "start" : "node hello-node.js"
+  },
+  "engines": {
+    "node": "18.x" , 
+    "npm": "8.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiikz/dev-lab-mike.git"
+  },
+  "author": "Austin Reach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiikz/dev-lab-mike/issues"
+  },
+  "homepage": "https://github.com/Kiikz/dev-lab-mike#readme"
+}
